@@ -1,0 +1,2134 @@
+[
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\5b245ce1f66b49d30401a704167d6788\\res\\drawable-hdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\anim_abc_tooltip_exit.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\anim\\abc_tooltip_exit.xml"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_btn_switch_to_on_mtrl_00001.9.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\drawable-xxhdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_textfield_search_default_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\drawable-xxhdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_ic_star_half_black_48dp.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\drawable-xxxhdpi-v4\\abc_ic_star_half_black_48dp.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_template_icon_group.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\5b245ce1f66b49d30401a704167d6788\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_popup_background_mtrl_mult.9.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\drawable-xxhdpi-v4\\abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_text_select_handle_middle_mtrl_light.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\drawable-hdpi-v4\\abc_text_select_handle_middle_mtrl_light.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_textfield_search_material.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_btn_reset_selected.png.flat",
+        "source": "D:\\study\\new_vuforia\\INCCA-master\\app\\src\\main\\res\\drawable-xhdpi\\btn_reset_selected.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_btn_radio_to_on_mtrl_000.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_sample_app_menu_group_divider.xml.flat",
+        "source": "D:\\study\\new_vuforia\\INCCA-master\\app\\src\\main\\res\\layout\\sample_app_menu_group_divider.xml"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_scrubber_control_to_pressed_mtrl_000.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\drawable-hdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_camera_overlay.xml.flat",
+        "source": "D:\\study\\new_vuforia\\INCCA-master\\app\\src\\main\\res\\layout\\camera_overlay.xml"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_list_selector_disabled_holo_light.9.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\drawable-xhdpi-v4\\abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_map_machine.png.flat",
+        "source": "D:\\study\\new_vuforia\\INCCA-master\\app\\src\\main\\res\\drawable-nodpi\\map_machine.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_card_info.png.flat",
+        "source": "D:\\study\\new_vuforia\\INCCA-master\\app\\src\\main\\res\\drawable-nodpi\\card_info.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_seekbar_tick_mark_material.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_list_focused_holo.9.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\drawable-xxhdpi-v4\\abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-xhdpi-v17_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\drawable-ldrtl-xhdpi-v17\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icon_camera_pressed.png.flat",
+        "source": "D:\\study\\new_vuforia\\INCCA-master\\app\\src\\main\\res\\drawable\\icon_camera_pressed.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_ic_star_half_black_16dp.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\drawable-hdpi-v4\\abc_ic_star_half_black_16dp.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_searching_reticle.png.flat",
+        "source": "D:\\study\\new_vuforia\\INCCA-master\\app\\src\\main\\res\\drawable-xxhdpi\\searching_reticle.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_switch_track_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\drawable-mdpi-v4\\abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\drawable-mdpi-v4\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon_ground_plane.png.flat",
+        "source": "D:\\study\\new_vuforia\\INCCA-master\\app\\src\\main\\res\\drawable-hdpi\\icon_ground_plane.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_icon_content_placement.png.flat",
+        "source": "D:\\study\\new_vuforia\\INCCA-master\\app\\src\\main\\res\\drawable-xxhdpi\\icon_content_placement.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_action.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\5b245ce1f66b49d30401a704167d6788\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_scrubber_primary_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\drawable-mdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_ic_star_black_36dp.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\drawable-xxhdpi-v4\\abc_ic_star_black_36dp.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_seekbar_thumb_material.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_btn_astro_selected.png.flat",
+        "source": "D:\\study\\new_vuforia\\INCCA-master\\app\\src\\main\\res\\drawable-xhdpi\\btn_astro_selected.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_bike_reticle.png.flat",
+        "source": "D:\\study\\new_vuforia\\INCCA-master\\app\\src\\main\\res\\drawable-nodpi\\bike_reticle.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_lander_status_recognized.png.flat",
+        "source": "D:\\study\\new_vuforia\\INCCA-master\\app\\src\\main\\res\\drawable-xhdpi\\lander_status_recognized.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_ic_commit_search_api_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\drawable-mdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_ic_star_half_black_36dp.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\drawable-xxxhdpi-v4\\abc_ic_star_half_black_36dp.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_btn_check_to_on_mtrl_000.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\drawable-xhdpi-v4\\abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_cab_background_top_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\drawable-mdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_sample_app_menu_layer.xml.flat",
+        "source": "D:\\study\\new_vuforia\\INCCA-master\\app\\src\\main\\res\\layout\\sample_app_menu_layer.xml"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_button_background.png.flat",
+        "source": "D:\\study\\new_vuforia\\INCCA-master\\app\\src\\main\\res\\drawable-hdpi\\button_background.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_btn_radio_to_on_mtrl_015.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\drawable-xhdpi-v4\\abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_dialog_material_background.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_btn_switch_to_on_mtrl_00012.9.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\drawable-xhdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_btn_astro.png.flat",
+        "source": "D:\\study\\new_vuforia\\INCCA-master\\app\\src\\main\\res\\drawable-mdpi\\btn_astro.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_ic_commit_search_api_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\drawable-xxhdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\color_switch_thumb_material_dark.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\color\\switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_ic_menu_share_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\drawable-xxhdpi-v4\\abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\drawable-xxxhdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_action_menu_layout.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_textfield_default_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\drawable-hdpi-v4\\abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_seekbar_track_material.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_lander_reticle.png.flat",
+        "source": "D:\\study\\new_vuforia\\INCCA-master\\app\\src\\main\\res\\drawable-nodpi\\lander_reticle.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_camera_overlay_with_scanline.xml.flat",
+        "source": "D:\\study\\new_vuforia\\INCCA-master\\app\\src\\main\\res\\layout\\camera_overlay_with_scanline.xml"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_list_menu_item_layout.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_btn_drone.png.flat",
+        "source": "D:\\study\\new_vuforia\\INCCA-master\\app\\src\\main\\res\\drawable-mdpi\\btn_drone.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\5b245ce1f66b49d30401a704167d6788\\res\\drawable-mdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_text_select_handle_left_mtrl_light.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\drawable-xxhdpi-v4\\abc_text_select_handle_left_mtrl_light.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_cab_background_top_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\drawable-xxhdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_list_divider_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\drawable-hdpi-v4\\abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_lander_status_recognized.png.flat",
+        "source": "D:\\study\\new_vuforia\\INCCA-master\\app\\src\\main\\res\\drawable-xxhdpi\\lander_status_recognized.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_map_imi.png.flat",
+        "source": "D:\\study\\new_vuforia\\INCCA-master\\app\\src\\main\\res\\drawable-nodpi\\map_imi.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_tab_indicator_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\drawable-mdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_bike_status_snapped.png.flat",
+        "source": "D:\\study\\new_vuforia\\INCCA-master\\app\\src\\main\\res\\drawable-hdpi\\bike_status_snapped.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_bike_reticle.png.flat",
+        "source": "D:\\study\\new_vuforia\\INCCA-master\\app\\src\\main\\res\\drawable-mdpi\\bike_reticle.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_inform.xml.flat",
+        "source": "D:\\study\\new_vuforia\\INCCA-master\\app\\src\\main\\res\\layout\\activity_inform.xml"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_ic_star_black_36dp.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\drawable-hdpi-v4\\abc_ic_star_black_36dp.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\anim_abc_fade_out.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\color-v23_abc_btn_colored_borderless_text_material.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\color-v23\\abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_textfield_search_activated_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\drawable-xxhdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v23_abc_control_background_material.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\drawable-v23\\abc_control_background_material.xml"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_photo12.jpg.flat",
+        "source": "D:\\study\\new_vuforia\\INCCA-master\\app\\src\\main\\res\\drawable-nodpi\\photo12.jpg"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_tab_indicator_material.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_btn_chair_selected.png.flat",
+        "source": "D:\\study\\new_vuforia\\INCCA-master\\app\\src\\main\\res\\drawable-xxhdpi\\btn_chair_selected.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_circle_button.xml.flat",
+        "source": "D:\\study\\new_vuforia\\INCCA-master\\app\\src\\main\\res\\drawable\\circle_button.xml"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_ratingbar_material.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_list_item.xml.flat",
+        "source": "D:\\study\\new_vuforia\\INCCA-master\\app\\src\\main\\res\\layout\\list_item.xml"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_btn_radio_to_on_mtrl_000.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\drawable-xxxhdpi-v4\\abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_switch_track_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\drawable-xxhdpi-v4\\abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_screen_toolbar.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_selector_btn_astro.xml.flat",
+        "source": "D:\\study\\new_vuforia\\INCCA-master\\app\\src\\main\\res\\drawable\\selector_btn_astro.xml"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_map_iee.png.flat",
+        "source": "D:\\study\\new_vuforia\\INCCA-master\\app\\src\\main\\res\\drawable-nodpi\\map_iee.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_primary_text_disable_only_material_light.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\color\\abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\5b245ce1f66b49d30401a704167d6788\\res\\drawable-hdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_item_background_holo_dark.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\5b245ce1f66b49d30401a704167d6788\\res\\drawable-mdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_btn_chair_selected.png.flat",
+        "source": "D:\\study\\new_vuforia\\INCCA-master\\app\\src\\main\\res\\drawable-mdpi\\btn_chair_selected.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_lander_reticle.png.flat",
+        "source": "D:\\study\\new_vuforia\\INCCA-master\\app\\src\\main\\res\\drawable-xxhdpi\\lander_reticle.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_ic_star_black_16dp.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\drawable-xxxhdpi-v4\\abc_ic_star_black_16dp.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_map_default.png.flat",
+        "source": "D:\\study\\new_vuforia\\INCCA-master\\app\\src\\main\\res\\drawable-nodpi\\map_default.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_lander_status_passive.png.flat",
+        "source": "D:\\study\\new_vuforia\\INCCA-master\\app\\src\\main\\res\\drawable-nodpi\\lander_status_passive.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-xhdpi-v17_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\drawable-ldrtl-xhdpi-v17\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_text_select_handle_middle_mtrl_dark.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\drawable-mdpi-v4\\abc_text_select_handle_middle_mtrl_dark.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn_drone_selected.png.flat",
+        "source": "D:\\study\\new_vuforia\\INCCA-master\\app\\src\\main\\res\\drawable-hdpi\\btn_drone_selected.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon_mid_air.png.flat",
+        "source": "D:\\study\\new_vuforia\\INCCA-master\\app\\src\\main\\res\\drawable-hdpi\\icon_mid_air.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_btn_radio_to_on_mtrl_000.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\drawable-mdpi-v4\\abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_map_iks.png.flat",
+        "source": "D:\\study\\new_vuforia\\INCCA-master\\app\\src\\main\\res\\drawable-nodpi\\map_iks.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_tab_indicator_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\drawable-hdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_ic_star_black_48dp.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\drawable-xxhdpi-v4\\abc_ic_star_black_48dp.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\layout-watch-v20_abc_alert_dialog_button_bar_material.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\layout-watch-v20\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_hint_foreground_material_dark.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\color\\abc_hint_foreground_material_dark.xml"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_photo9.jpg.flat",
+        "source": "D:\\study\\new_vuforia\\INCCA-master\\app\\src\\main\\res\\drawable-nodpi\\photo9.jpg"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_text_select_handle_right_mtrl_light.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\drawable-xxhdpi-v4\\abc_text_select_handle_right_mtrl_light.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_btn_switch_to_on_mtrl_00012.9.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\drawable-xxhdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-xxhdpi-v17_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\drawable-ldrtl-xxhdpi-v17\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_tooltip.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\layout\\abc_tooltip.xml"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_text_cursor_material.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\drawable-xxhdpi-v4\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_btn_borderless_material.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_scrubber_control_to_pressed_mtrl_005.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\drawable-mdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_list_divider_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\drawable-xxhdpi-v4\\abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_select_dialog_multichoice_material.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_text_select_handle_left_mtrl_dark.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\drawable-mdpi-v4\\abc_text_select_handle_left_mtrl_dark.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_action_menu_item_layout.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_btn_check_material.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_list_selector_disabled_holo_dark.9.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\drawable-mdpi-v4\\abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_lander_status_snapped.png.flat",
+        "source": "D:\\study\\new_vuforia\\INCCA-master\\app\\src\\main\\res\\drawable-hdpi\\lander_status_snapped.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_bike_status_recognized.png.flat",
+        "source": "D:\\study\\new_vuforia\\INCCA-master\\app\\src\\main\\res\\drawable-nodpi\\bike_status_recognized.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_list_divider_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\drawable-mdpi-v4\\abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_button_background.png.flat",
+        "source": "D:\\study\\new_vuforia\\INCCA-master\\app\\src\\main\\res\\drawable-xhdpi\\button_background.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_action_tombstone.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\5b245ce1f66b49d30401a704167d6788\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_map_auto.png.flat",
+        "source": "D:\\study\\new_vuforia\\INCCA-master\\app\\src\\main\\res\\drawable-nodpi\\map_auto.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_textfield_activated_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\drawable-xxhdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-xhdpi-v17_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\drawable-ldrtl-xhdpi-v17\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_search_url_text.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\color\\abc_search_url_text.xml"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_icon_mid_air.png.flat",
+        "source": "D:\\study\\new_vuforia\\INCCA-master\\app\\src\\main\\res\\drawable-xxhdpi\\icon_mid_air.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_spinner_textfield_background_material.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\5b245ce1f66b49d30401a704167d6788\\res\\drawable-mdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_btn_switch_to_on_mtrl_00001.9.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_btn_check_to_on_mtrl_000.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\drawable-mdpi-v4\\abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-mdpi-v17_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\drawable-ldrtl-mdpi-v17\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_textfield_default_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\drawable-xhdpi-v4\\abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_btn_check_to_on_mtrl_000.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\drawable-xxxhdpi-v4\\abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_menu_hardkey_panel_mtrl_mult.9.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\drawable-hdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\color-v23_abc_tint_btn_checkable.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\color-v23\\abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_ic_clear_material.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_scrubber_track_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\drawable-xxhdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_select_dialog_item_material.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_tooltip_frame_dark.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\drawable\\tooltip_frame_dark.xml"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\color-v23_abc_btn_colored_text_material.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\color-v23\\abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\anim_abc_tooltip_enter.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\anim\\abc_tooltip_enter.xml"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_list_pressed_holo_dark.9.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\drawable-xhdpi-v4\\abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_photo15.jpg.flat",
+        "source": "D:\\study\\new_vuforia\\INCCA-master\\app\\src\\main\\res\\drawable-nodpi\\photo15.jpg"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_text_select_handle_left_mtrl_dark.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\drawable-hdpi-v4\\abc_text_select_handle_left_mtrl_dark.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\color-v23_abc_tint_edittext.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\color-v23\\abc_tint_edittext.xml"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_popup_menu_header_item_layout.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_photo5.jpg.flat",
+        "source": "D:\\study\\new_vuforia\\INCCA-master\\app\\src\\main\\res\\drawable-nodpi\\photo5.jpg"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_item_background_holo_light.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\anim_abc_slide_in_bottom.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_btn_radio_to_on_mtrl_015.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_info.xml.flat",
+        "source": "D:\\study\\new_vuforia\\INCCA-master\\app\\src\\main\\res\\drawable\\ic_info.xml"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_vuforia_splash.png.flat",
+        "source": "D:\\study\\new_vuforia\\INCCA-master\\app\\src\\main\\res\\drawable-nodpi\\vuforia_splash.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\5b245ce1f66b49d30401a704167d6788\\res\\drawable-xhdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_icon_content_placement.png.flat",
+        "source": "D:\\study\\new_vuforia\\INCCA-master\\app\\src\\main\\res\\drawable-mdpi\\icon_content_placement.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_ic_star_half_black_48dp.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\drawable-hdpi-v4\\abc_ic_star_half_black_48dp.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_text_select_handle_right_mtrl_light.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\drawable-xhdpi-v4\\abc_text_select_handle_right_mtrl_light.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_btn_check_to_on_mtrl_015.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\drawable-xhdpi-v4\\abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_notification_action_background.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\5b245ce1f66b49d30401a704167d6788\\res\\drawable-v21\\notification_action_background.xml"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_screen_simple.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_scrubber_primary_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\drawable-hdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_textfield_search_default_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\drawable-hdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_ab_share_pack_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\drawable-mdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_ic_star_half_black_16dp.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\drawable-mdpi-v4\\abc_ic_star_half_black_16dp.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-mdpi-v17_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\drawable-ldrtl-mdpi-v17\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_ratingbar_indicator_material.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_scrubber_control_to_pressed_mtrl_005.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\drawable-hdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_icon.png.flat",
+        "source": "D:\\study\\new_vuforia\\INCCA-master\\app\\src\\main\\res\\drawable-mdpi\\icon.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_ic_star_half_black_36dp.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\drawable-mdpi-v4\\abc_ic_star_half_black_36dp.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_lander_reticle.png.flat",
+        "source": "D:\\study\\new_vuforia\\INCCA-master\\app\\src\\main\\res\\drawable-hdpi\\lander_reticle.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_alert_dialog_material.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_btn_astro_selected.png.flat",
+        "source": "D:\\study\\new_vuforia\\INCCA-master\\app\\src\\main\\res\\drawable-xxhdpi\\btn_astro_selected.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\anim_abc_slide_in_top.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_logo.png.flat",
+        "source": "D:\\study\\new_vuforia\\INCCA-master\\app\\src\\main\\res\\drawable-xhdpi\\logo.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_scrubber_control_off_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\drawable-xhdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_icon_camera_normal.png.flat",
+        "source": "D:\\study\\new_vuforia\\INCCA-master\\app\\src\\main\\res\\drawable-nodpi\\icon_camera_normal.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_text_select_handle_middle_mtrl_dark.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\drawable-xhdpi-v4\\abc_text_select_handle_middle_mtrl_dark.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_list_selector_disabled_holo_light.9.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\drawable-xxhdpi-v4\\abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_lander_status_passive.png.flat",
+        "source": "D:\\study\\new_vuforia\\INCCA-master\\app\\src\\main\\res\\drawable-mdpi\\lander_status_passive.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\anim_bottom_down.xml.flat",
+        "source": "D:\\study\\new_vuforia\\INCCA-master\\app\\src\\main\\res\\anim\\bottom_down.xml"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_bike_status_recognized.png.flat",
+        "source": "D:\\study\\new_vuforia\\INCCA-master\\app\\src\\main\\res\\drawable-hdpi\\bike_status_recognized.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_photo7.jpg.flat",
+        "source": "D:\\study\\new_vuforia\\INCCA-master\\app\\src\\main\\res\\drawable-nodpi\\photo7.jpg"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_scrubber_track_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\drawable-hdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_select_dialog_material.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_selector_btn_reset.xml.flat",
+        "source": "D:\\study\\new_vuforia\\INCCA-master\\app\\src\\main\\res\\drawable\\selector_btn_reset.xml"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_ic_star_black_36dp.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\drawable-xhdpi-v4\\abc_ic_star_black_36dp.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_textfield_search_activated_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\drawable-mdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_bike_status_recognized.png.flat",
+        "source": "D:\\study\\new_vuforia\\INCCA-master\\app\\src\\main\\res\\drawable-xhdpi\\bike_status_recognized.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_ab_share_pack_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\drawable-xxhdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_list_pressed_holo_light.9.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\drawable-hdpi-v4\\abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn_chair_selected.png.flat",
+        "source": "D:\\study\\new_vuforia\\INCCA-master\\app\\src\\main\\res\\drawable-hdpi\\btn_chair_selected.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_sample_app_title_bar.xml.flat",
+        "source": "D:\\study\\new_vuforia\\INCCA-master\\app\\src\\main\\res\\layout\\sample_app_title_bar.xml"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_text_select_handle_right_mtrl_dark.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\drawable-xhdpi-v4\\abc_text_select_handle_right_mtrl_dark.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_btn_astro_selected.png.flat",
+        "source": "D:\\study\\new_vuforia\\INCCA-master\\app\\src\\main\\res\\drawable-mdpi\\btn_astro_selected.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_photo4.jpg.flat",
+        "source": "D:\\study\\new_vuforia\\INCCA-master\\app\\src\\main\\res\\drawable-nodpi\\photo4.jpg"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_search_dropdown_item_icons_2line.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_ic_star_black_36dp.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\drawable-mdpi-v4\\abc_ic_star_black_36dp.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_ic_menu_selectall_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\drawable-mdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_ic_arrow_drop_right_black_24dp.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_menu_hardkey_panel_mtrl_mult.9.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\drawable-xxhdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_alert_dialog_button_bar_material.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\anim_abc_slide_out_bottom.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_textfield_search_default_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\drawable-mdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_checkmark.png.flat",
+        "source": "D:\\study\\new_vuforia\\INCCA-master\\app\\src\\main\\res\\drawable-mdpi\\checkmark.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_icon_ground_plane.png.flat",
+        "source": "D:\\study\\new_vuforia\\INCCA-master\\app\\src\\main\\res\\drawable-xxhdpi\\icon_ground_plane.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_scanline.png.flat",
+        "source": "D:\\study\\new_vuforia\\INCCA-master\\app\\src\\main\\res\\drawable-nodpi\\scanline.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\drawable-xxhdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_btn_check_to_on_mtrl_015.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\drawable-xxxhdpi-v4\\abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_text_select_handle_right_mtrl_light.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\drawable-xxxhdpi-v4\\abc_text_select_handle_right_mtrl_light.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_menu_hardkey_panel_mtrl_mult.9.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\drawable-xhdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_template_custom_big.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\5b245ce1f66b49d30401a704167d6788\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_btn_switch_to_on_mtrl_00001.9.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\drawable-mdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_btn_switch_to_on_mtrl_00001.9.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\drawable-xhdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_icon_mid_air.png.flat",
+        "source": "D:\\study\\new_vuforia\\INCCA-master\\app\\src\\main\\res\\drawable-mdpi\\icon_mid_air.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_btn_radio_to_on_mtrl_015.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\drawable-xxxhdpi-v4\\abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\drawable-hdpi-v4\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_bike_status_recognized.png.flat",
+        "source": "D:\\study\\new_vuforia\\INCCA-master\\app\\src\\main\\res\\drawable-mdpi\\bike_status_recognized.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_action_bar_up_container.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_scrubber_control_to_pressed_mtrl_005.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\drawable-xxhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\drawable-hdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_ic_star_black_48dp.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\drawable-xxxhdpi-v4\\abc_ic_star_black_48dp.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_list_group.xml.flat",
+        "source": "D:\\study\\new_vuforia\\INCCA-master\\app\\src\\main\\res\\layout\\list_group.xml"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_scrubber_primary_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\drawable-xxhdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\anim_abc_popup_exit.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_background_cache_hint_selector_material_dark.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\color\\abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_btn_check_to_on_mtrl_015.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\drawable-mdpi-v4\\abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_camera.xml.flat",
+        "source": "D:\\study\\new_vuforia\\INCCA-master\\app\\src\\main\\res\\drawable\\ic_camera.xml"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_list_selector_holo_dark.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_switch_thumb_material.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_switch_track_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\drawable-xhdpi-v4\\abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_scrubber_control_off_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\drawable-hdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_secondary_text_material_light.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\color\\abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-xxhdpi-v17_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\drawable-ldrtl-xxhdpi-v17\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_btn_switch_to_on_mtrl_00012.9.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\drawable-mdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-mdpi-v17_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\drawable-ldrtl-mdpi-v17\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_photo6.jpg.flat",
+        "source": "D:\\study\\new_vuforia\\INCCA-master\\app\\src\\main\\res\\drawable-nodpi\\photo6.jpg"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_ic_star_half_black_36dp.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\drawable-xhdpi-v4\\abc_ic_star_half_black_36dp.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_bike_status_passive.png.flat",
+        "source": "D:\\study\\new_vuforia\\INCCA-master\\app\\src\\main\\res\\drawable-xxhdpi\\bike_status_passive.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_btn_radio_to_on_mtrl_015.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\drawable-mdpi-v4\\abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_bike_status_passive.png.flat",
+        "source": "D:\\study\\new_vuforia\\INCCA-master\\app\\src\\main\\res\\drawable-mdpi\\bike_status_passive.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_textfield_default_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\drawable-xxhdpi-v4\\abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_notification_tile_bg.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\5b245ce1f66b49d30401a704167d6788\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_popup_background_mtrl_mult.9.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\drawable-hdpi-v4\\abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_ic_menu_share_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\drawable-hdpi-v4\\abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_btn_radio_to_on_mtrl_000.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\drawable-xhdpi-v4\\abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_ic_commit_search_api_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\drawable-hdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_menu_hardkey_panel_mtrl_mult.9.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\drawable-mdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_list_selector_disabled_holo_dark.9.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\drawable-xxhdpi-v4\\abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_list_selector_disabled_holo_light.9.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\drawable-mdpi-v4\\abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-xxhdpi-v17_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\drawable-ldrtl-xxhdpi-v17\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_textfield_search_activated_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\drawable-xhdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_part_time.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\5b245ce1f66b49d30401a704167d6788\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_abc_action_bar_item_background_material.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_ic_star_half_black_16dp.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\drawable-xxhdpi-v4\\abc_ic_star_half_black_16dp.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_primary_text_material_light.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\color\\abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_alert_dialog_title_material.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\layout\\abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_list_divider_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\drawable-xhdpi-v4\\abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_popup_background_mtrl_mult.9.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\drawable-mdpi-v4\\abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_lander_status_passive.png.flat",
+        "source": "D:\\study\\new_vuforia\\INCCA-master\\app\\src\\main\\res\\drawable-xxhdpi\\lander_status_passive.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\5b245ce1f66b49d30401a704167d6788\\res\\drawable-xhdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_ic_ab_back_material.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_map_admin.png.flat",
+        "source": "D:\\study\\new_vuforia\\INCCA-master\\app\\src\\main\\res\\drawable-nodpi\\map_admin.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_camera_button_background.xml.flat",
+        "source": "D:\\study\\new_vuforia\\INCCA-master\\app\\src\\main\\res\\drawable\\camera_button_background.xml"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_text_select_handle_middle_mtrl_dark.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\drawable-xxhdpi-v4\\abc_text_select_handle_middle_mtrl_dark.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_ab_share_pack_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\drawable-xhdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_checkmark.png.flat",
+        "source": "D:\\study\\new_vuforia\\INCCA-master\\app\\src\\main\\res\\drawable-xhdpi\\checkmark.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_ic_menu_share_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\drawable-xhdpi-v4\\abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_logo.png.flat",
+        "source": "D:\\study\\new_vuforia\\INCCA-master\\app\\src\\main\\res\\drawable-xxhdpi\\logo.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_activity_chooser_view_list_item.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_ic_menu_selectall_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\drawable-xhdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_lander_status_passive.png.flat",
+        "source": "D:\\study\\new_vuforia\\INCCA-master\\app\\src\\main\\res\\drawable-xhdpi\\lander_status_passive.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_ic_commit_search_api_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\drawable-xhdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_text_select_handle_right_mtrl_light.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\drawable-mdpi-v4\\abc_text_select_handle_right_mtrl_light.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_list_pressed_holo_light.9.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\drawable-xxhdpi-v4\\abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_btn_chair.png.flat",
+        "source": "D:\\study\\new_vuforia\\INCCA-master\\app\\src\\main\\res\\drawable-mdpi\\btn_chair.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_sample_app_toast_background.xml.flat",
+        "source": "D:\\study\\new_vuforia\\INCCA-master\\app\\src\\main\\res\\drawable\\sample_app_toast_background.xml"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_abc_edit_text_material.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\drawable-v21\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_scrubber_track_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\drawable-xhdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_checkmark.png.flat",
+        "source": "D:\\study\\new_vuforia\\INCCA-master\\app\\src\\main\\res\\drawable-nodpi\\checkmark.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_btn_check_to_on_mtrl_015.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_checkmark.png.flat",
+        "source": "D:\\study\\new_vuforia\\INCCA-master\\app\\src\\main\\res\\drawable-hdpi\\checkmark.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_text_select_handle_left_mtrl_dark.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\drawable-xxxhdpi-v4\\abc_text_select_handle_left_mtrl_dark.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_bike_status_passive.png.flat",
+        "source": "D:\\study\\new_vuforia\\INCCA-master\\app\\src\\main\\res\\drawable-nodpi\\bike_status_passive.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-hdpi-v17_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\drawable-ldrtl-hdpi-v17\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_selector_btn_product.xml.flat",
+        "source": "D:\\study\\new_vuforia\\INCCA-master\\app\\src\\main\\res\\drawable\\selector_btn_product.xml"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_ic_star_black_16dp.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\drawable-mdpi-v4\\abc_ic_star_black_16dp.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_ic_go_search_api_material.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_icon_content_placement.png.flat",
+        "source": "D:\\study\\new_vuforia\\INCCA-master\\app\\src\\main\\res\\drawable-xhdpi\\icon_content_placement.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_part_chronometer.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\5b245ce1f66b49d30401a704167d6788\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_show_picture.xml.flat",
+        "source": "D:\\study\\new_vuforia\\INCCA-master\\app\\src\\main\\res\\layout\\activity_show_picture.xml"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\anim_abc_popup_enter.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_lander_status_recognized.png.flat",
+        "source": "D:\\study\\new_vuforia\\INCCA-master\\app\\src\\main\\res\\drawable-hdpi\\lander_status_recognized.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_map_iibrt.png.flat",
+        "source": "D:\\study\\new_vuforia\\INCCA-master\\app\\src\\main\\res\\drawable-nodpi\\map_iibrt.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_textfield_activated_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\drawable-mdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_vector_test.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_list_menu_item_icon.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_scrubber_control_to_pressed_mtrl_000.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\drawable-xxxhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_search_view.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_textfield_activated_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\drawable-xhdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_list_selector_holo_light.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_list_selector_background_transition_holo_light.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_list_menu_item_radio.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_textfield_default_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\drawable-mdpi-v4\\abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_ic_star_half_black_48dp.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\drawable-xxhdpi-v4\\abc_ic_star_half_black_48dp.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\drawable-hdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_list_pressed_holo_dark.9.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\drawable-hdpi-v4\\abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_map_h_ieksu.png.flat",
+        "source": "D:\\study\\new_vuforia\\INCCA-master\\app\\src\\main\\res\\drawable-nodpi\\map_h_ieksu.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_scrubber_control_to_pressed_mtrl_005.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\drawable-xhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\drawable-mdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\5b245ce1f66b49d30401a704167d6788\\res\\drawable-hdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon_content_placement.png.flat",
+        "source": "D:\\study\\new_vuforia\\INCCA-master\\app\\src\\main\\res\\drawable-hdpi\\icon_content_placement.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_btn_drone_selected.png.flat",
+        "source": "D:\\study\\new_vuforia\\INCCA-master\\app\\src\\main\\res\\drawable-xhdpi\\btn_drone_selected.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn_reset_selected.png.flat",
+        "source": "D:\\study\\new_vuforia\\INCCA-master\\app\\src\\main\\res\\drawable-hdpi\\btn_reset_selected.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_bike_status_snapped.png.flat",
+        "source": "D:\\study\\new_vuforia\\INCCA-master\\app\\src\\main\\res\\drawable-xxhdpi\\bike_status_snapped.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_list_focused_holo.9.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\drawable-mdpi-v4\\abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_photo8.jpg.flat",
+        "source": "D:\\study\\new_vuforia\\INCCA-master\\app\\src\\main\\res\\drawable-nodpi\\photo8.jpg"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_ic_star_half_black_48dp.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\drawable-mdpi-v4\\abc_ic_star_half_black_48dp.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_icon.png.flat",
+        "source": "D:\\study\\new_vuforia\\INCCA-master\\app\\src\\main\\res\\drawable-xxhdpi\\icon.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_list_longpressed_holo.9.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\drawable-hdpi-v4\\abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_ic_menu_share_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\drawable-mdpi-v4\\abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_lander_status_recognized.png.flat",
+        "source": "D:\\study\\new_vuforia\\INCCA-master\\app\\src\\main\\res\\drawable-mdpi\\lander_status_recognized.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\anim_abc_grow_fade_in_from_bottom.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_btn_radio_material.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_textfield_search_default_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\drawable-xhdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn_drone.png.flat",
+        "source": "D:\\study\\new_vuforia\\INCCA-master\\app\\src\\main\\res\\drawable-hdpi\\btn_drone.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-xxxhdpi-v17_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\drawable-ldrtl-xxxhdpi-v17\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\drawable-xhdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_lander_status_recognized.png.flat",
+        "source": "D:\\study\\new_vuforia\\INCCA-master\\app\\src\\main\\res\\drawable-nodpi\\lander_status_recognized.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_cab_background_top_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\drawable-hdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_text_select_handle_right_mtrl_dark.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\drawable-hdpi-v4\\abc_text_select_handle_right_mtrl_dark.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\anim_abc_slide_out_top.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_list_pressed_holo_dark.9.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\drawable-mdpi-v4\\abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_btn_reset.png.flat",
+        "source": "D:\\study\\new_vuforia\\INCCA-master\\app\\src\\main\\res\\drawable-mdpi\\btn_reset.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_btn_radio_to_on_mtrl_015.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\drawable-xxhdpi-v4\\abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_ic_menu_share_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\drawable-xxxhdpi-v4\\abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_tab_indicator_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\drawable-xxhdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\5b245ce1f66b49d30401a704167d6788\\res\\drawable-xhdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_bike_status_snapped.png.flat",
+        "source": "D:\\study\\new_vuforia\\INCCA-master\\app\\src\\main\\res\\drawable-xhdpi\\bike_status_snapped.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_bike_reticle.png.flat",
+        "source": "D:\\study\\new_vuforia\\INCCA-master\\app\\src\\main\\res\\drawable-hdpi\\bike_reticle.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon.png.flat",
+        "source": "D:\\study\\new_vuforia\\INCCA-master\\app\\src\\main\\res\\drawable-hdpi\\icon.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_ic_menu_paste_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\drawable-mdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_action_mode_bar.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_notification_icon_background.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\5b245ce1f66b49d30401a704167d6788\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_ic_star_half_black_16dp.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\drawable-xhdpi-v4\\abc_ic_star_half_black_16dp.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_scrubber_track_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\drawable-mdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_notification_bg_low.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\5b245ce1f66b49d30401a704167d6788\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\drawable-xxxhdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_textfield_search_activated_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\drawable-hdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_icon_ground_plane.png.flat",
+        "source": "D:\\study\\new_vuforia\\INCCA-master\\app\\src\\main\\res\\drawable-mdpi\\icon_ground_plane.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_ic_menu_paste_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\drawable-hdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_ic_search_api_material.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_checkmark.png.flat",
+        "source": "D:\\study\\new_vuforia\\INCCA-master\\app\\src\\main\\res\\drawable-xxhdpi\\checkmark.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_bike_status_passive.png.flat",
+        "source": "D:\\study\\new_vuforia\\INCCA-master\\app\\src\\main\\res\\drawable-xhdpi\\bike_status_passive.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_ic_voice_search_api_material.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_primary_text_disable_only_material_dark.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_info_button_preset.xml.flat",
+        "source": "D:\\study\\new_vuforia\\INCCA-master\\app\\src\\main\\res\\layout\\info_button_preset.xml"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_secondary_text_material_dark.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\color\\abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_list_selector_disabled_holo_light.9.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_btn_reset.png.flat",
+        "source": "D:\\study\\new_vuforia\\INCCA-master\\app\\src\\main\\res\\drawable-xhdpi\\btn_reset.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_photo3.jpg.flat",
+        "source": "D:\\study\\new_vuforia\\INCCA-master\\app\\src\\main\\res\\drawable-nodpi\\photo3.jpg"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_popup_background_mtrl_mult.9.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\drawable-xhdpi-v4\\abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_reticle.png.flat",
+        "source": "D:\\study\\new_vuforia\\INCCA-master\\app\\src\\main\\res\\drawable-nodpi\\reticle.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_icon.png.flat",
+        "source": "D:\\study\\new_vuforia\\INCCA-master\\app\\src\\main\\res\\drawable-ldpi\\icon.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_scrubber_primary_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\drawable-xhdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\5b245ce1f66b49d30401a704167d6788\\res\\drawable-mdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_text_select_handle_right_mtrl_dark.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\drawable-mdpi-v4\\abc_text_select_handle_right_mtrl_dark.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\color_switch_thumb_material_light.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\color\\switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_ic_menu_paste_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\drawable-xxhdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_searching_reticle.png.flat",
+        "source": "D:\\study\\new_vuforia\\INCCA-master\\app\\src\\main\\res\\drawable-nodpi\\searching_reticle.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_photo20.jpg.flat",
+        "source": "D:\\study\\new_vuforia\\INCCA-master\\app\\src\\main\\res\\drawable-nodpi\\photo20.jpg"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_list_focused_holo.9.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\drawable-hdpi-v4\\abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_dialog_title_material.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_bike_reticle.png.flat",
+        "source": "D:\\study\\new_vuforia\\INCCA-master\\app\\src\\main\\res\\drawable-xxhdpi\\bike_reticle.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\color-v23_abc_tint_spinner.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\color-v23\\abc_tint_spinner.xml"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_background_cache_hint_selector_material_light.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\color\\abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_ic_star_half_black_36dp.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\drawable-xxhdpi-v4\\abc_ic_star_half_black_36dp.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_btn_drone.png.flat",
+        "source": "D:\\study\\new_vuforia\\INCCA-master\\app\\src\\main\\res\\drawable-xxhdpi\\btn_drone.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_two.jpg.flat",
+        "source": "D:\\study\\new_vuforia\\INCCA-master\\app\\src\\main\\res\\drawable-nodpi\\two.jpg"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_info_icon.png.flat",
+        "source": "D:\\study\\new_vuforia\\INCCA-master\\app\\src\\main\\res\\drawable-nodpi\\info_icon.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_button_background.png.flat",
+        "source": "D:\\study\\new_vuforia\\INCCA-master\\app\\src\\main\\res\\drawable-xxhdpi\\button_background.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_cab_background_top_material.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_text_select_handle_right_mtrl_dark.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\drawable-xxxhdpi-v4\\abc_text_select_handle_right_mtrl_dark.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\5b245ce1f66b49d30401a704167d6788\\res\\drawable-xhdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_text_select_handle_left_mtrl_light.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\drawable-xhdpi-v4\\abc_text_select_handle_left_mtrl_light.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_logo.png.flat",
+        "source": "D:\\study\\new_vuforia\\INCCA-master\\app\\src\\main\\res\\drawable-hdpi\\logo.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_searching_reticle.png.flat",
+        "source": "D:\\study\\new_vuforia\\INCCA-master\\app\\src\\main\\res\\drawable-xhdpi\\searching_reticle.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_list_longpressed_holo.9.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\drawable-xhdpi-v4\\abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_hint_foreground_material_light.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\color\\abc_hint_foreground_material_light.xml"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_ic_menu_overflow_material.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_ic_menu_paste_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\drawable-xhdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\drawable-xhdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_ic_star_black_48dp.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\drawable-mdpi-v4\\abc_ic_star_black_48dp.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_ic_star_black_16dp.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\drawable-hdpi-v4\\abc_ic_star_black_16dp.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_text_select_handle_middle_mtrl_light.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\drawable-mdpi-v4\\abc_text_select_handle_middle_mtrl_light.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_btn_reset_selected.png.flat",
+        "source": "D:\\study\\new_vuforia\\INCCA-master\\app\\src\\main\\res\\drawable-mdpi\\btn_reset_selected.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_btn_switch_to_on_mtrl_00001.9.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\drawable-xxxhdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_lander_status_snapped.png.flat",
+        "source": "D:\\study\\new_vuforia\\INCCA-master\\app\\src\\main\\res\\drawable-xxhdpi\\lander_status_snapped.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\5b245ce1f66b49d30401a704167d6788\\res\\drawable-xhdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_scrubber_control_to_pressed_mtrl_000.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\drawable-xhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_scrubber_control_to_pressed_mtrl_005.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\drawable-xxxhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_menu.xml.flat",
+        "source": "D:\\study\\new_vuforia\\INCCA-master\\app\\src\\main\\res\\layout\\activity_menu.xml"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_ic_menu_selectall_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\drawable-hdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_text_select_handle_left_mtrl_light.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\drawable-hdpi-v4\\abc_text_select_handle_left_mtrl_light.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_ic_star_black_16dp.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\drawable-xhdpi-v4\\abc_ic_star_black_16dp.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_lander_status_snapped.png.flat",
+        "source": "D:\\study\\new_vuforia\\INCCA-master\\app\\src\\main\\res\\drawable-xhdpi\\lander_status_snapped.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_btn_reset_selected.png.flat",
+        "source": "D:\\study\\new_vuforia\\INCCA-master\\app\\src\\main\\res\\drawable-xxhdpi\\btn_reset_selected.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-hdpi-v17_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\drawable-ldrtl-hdpi-v17\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_cab_background_internal_bg.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_tooltip_frame_light.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\drawable\\tooltip_frame_light.xml"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_list_longpressed_holo.9.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\drawable-mdpi-v4\\abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_list_menu_item_checkbox.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_button_background.png.flat",
+        "source": "D:\\study\\new_vuforia\\INCCA-master\\app\\src\\main\\res\\drawable-nodpi\\button_background.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_ic_star_black_36dp.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\drawable-xxxhdpi-v4\\abc_ic_star_black_36dp.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\color-v23_abc_tint_seek_thumb.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\color-v23\\abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_list_pressed_holo_light.9.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\drawable-xhdpi-v4\\abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_list_focused_holo.9.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\drawable-xhdpi-v4\\abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_icon.png.flat",
+        "source": "D:\\study\\new_vuforia\\INCCA-master\\app\\src\\main\\res\\drawable-nodpi\\icon.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_expanded_menu_layout.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_ic_star_half_black_16dp.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\drawable-xxxhdpi-v4\\abc_ic_star_half_black_16dp.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\color-v23_abc_tint_default.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\color-v23\\abc_tint_default.xml"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_map.xml.flat",
+        "source": "D:\\study\\new_vuforia\\INCCA-master\\app\\src\\main\\res\\layout\\activity_map.xml"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_text_select_handle_right_mtrl_light.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\drawable-hdpi-v4\\abc_text_select_handle_right_mtrl_light.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_list_selector_disabled_holo_dark.9.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\drawable-xhdpi-v4\\abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_lander_status_passive.png.flat",
+        "source": "D:\\study\\new_vuforia\\INCCA-master\\app\\src\\main\\res\\drawable-hdpi\\lander_status_passive.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_textfield_activated_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\drawable-hdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_bike_status_snapped.png.flat",
+        "source": "D:\\study\\new_vuforia\\INCCA-master\\app\\src\\main\\res\\drawable-nodpi\\bike_status_snapped.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_ic_menu_selectall_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\drawable-xxhdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_btn_drone_selected.png.flat",
+        "source": "D:\\study\\new_vuforia\\INCCA-master\\app\\src\\main\\res\\drawable-xxhdpi\\btn_drone_selected.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\anim_abc_fade_in.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_btn_chair.png.flat",
+        "source": "D:\\study\\new_vuforia\\INCCA-master\\app\\src\\main\\res\\drawable-xhdpi\\btn_chair.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_action_bar_title_item.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_scrubber_control_off_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\drawable-xxhdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_support_simple_spinner_dropdown_item.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_splash_screen.xml.flat",
+        "source": "D:\\study\\new_vuforia\\INCCA-master\\app\\src\\main\\res\\layout\\splash_screen.xml"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_btn_check_to_on_mtrl_015.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\drawable-xxhdpi-v4\\abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_btn_drone_selected.png.flat",
+        "source": "D:\\study\\new_vuforia\\INCCA-master\\app\\src\\main\\res\\drawable-mdpi\\btn_drone_selected.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\5b245ce1f66b49d30401a704167d6788\\res\\drawable-hdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_ab_share_pack_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\drawable-hdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_btn_reset.png.flat",
+        "source": "D:\\study\\new_vuforia\\INCCA-master\\app\\src\\main\\res\\drawable-xxhdpi\\btn_reset.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_text_select_handle_left_mtrl_light.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\drawable-mdpi-v4\\abc_text_select_handle_left_mtrl_light.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_btn_switch_to_on_mtrl_00012.9.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_scrubber_control_to_pressed_mtrl_000.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\drawable-mdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_btn_astro.png.flat",
+        "source": "D:\\study\\new_vuforia\\INCCA-master\\app\\src\\main\\res\\drawable-xhdpi\\btn_astro.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\drawable-xxxhdpi-v4\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-watch-v20_abc_dialog_material_background.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\drawable-watch-v20\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_notification_bg.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\5b245ce1f66b49d30401a704167d6788\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_ratingbar_small_material.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_list_selector_disabled_holo_dark.9.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_text_select_handle_left_mtrl_light.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\drawable-xxxhdpi-v4\\abc_text_select_handle_left_mtrl_light.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_btn_drone.png.flat",
+        "source": "D:\\study\\new_vuforia\\INCCA-master\\app\\src\\main\\res\\drawable-xhdpi\\btn_drone.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_text_select_handle_middle_mtrl_light.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\drawable-xhdpi-v4\\abc_text_select_handle_middle_mtrl_light.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\anim_bottom_up.xml.flat",
+        "source": "D:\\study\\new_vuforia\\INCCA-master\\app\\src\\main\\res\\anim\\bottom_up.xml"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_map_gum.png.flat",
+        "source": "D:\\study\\new_vuforia\\INCCA-master\\app\\src\\main\\res\\drawable-nodpi\\map_gum.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-xxxhdpi-v17_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\drawable-ldrtl-xxxhdpi-v17\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_lander_reticle.png.flat",
+        "source": "D:\\study\\new_vuforia\\INCCA-master\\app\\src\\main\\res\\drawable-mdpi\\lander_reticle.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_round_bg.xml.flat",
+        "source": "D:\\study\\new_vuforia\\INCCA-master\\app\\src\\main\\res\\drawable\\round_bg.xml"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_btn_check_to_on_mtrl_000.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn_reset.png.flat",
+        "source": "D:\\study\\new_vuforia\\INCCA-master\\app\\src\\main\\res\\drawable-hdpi\\btn_reset.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_scrubber_control_off_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\drawable-mdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_screen_content_include.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_btn_chair_selected.png.flat",
+        "source": "D:\\study\\new_vuforia\\INCCA-master\\app\\src\\main\\res\\drawable-xhdpi\\btn_chair_selected.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_tab_indicator_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\drawable-xxxhdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_lander_status_snapped.png.flat",
+        "source": "D:\\study\\new_vuforia\\INCCA-master\\app\\src\\main\\res\\drawable-nodpi\\lander_status_snapped.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_icon_mid_air.png.flat",
+        "source": "D:\\study\\new_vuforia\\INCCA-master\\app\\src\\main\\res\\drawable-xhdpi\\icon_mid_air.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_ic_star_half_black_48dp.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\drawable-xhdpi-v4\\abc_ic_star_half_black_48dp.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_activity_chooser_view.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_icon.png.flat",
+        "source": "D:\\study\\new_vuforia\\INCCA-master\\app\\src\\main\\res\\drawable-xxxhdpi\\icon.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_text_select_handle_middle_mtrl_dark.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\drawable-hdpi-v4\\abc_text_select_handle_middle_mtrl_dark.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_list_selector_background_transition_holo_dark.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_primary_text_material_dark.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\color\\abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_text_select_handle_middle_mtrl_light.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\drawable-xxhdpi-v4\\abc_text_select_handle_middle_mtrl_light.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_selector_btn_drone.xml.flat",
+        "source": "D:\\study\\new_vuforia\\INCCA-master\\app\\src\\main\\res\\drawable\\selector_btn_drone.xml"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_map_button_preset.xml.flat",
+        "source": "D:\\study\\new_vuforia\\INCCA-master\\app\\src\\main\\res\\layout\\map_button_preset.xml"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-xxxhdpi-v17_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\drawable-ldrtl-xxxhdpi-v17\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_tab_indicator_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\drawable-xhdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_action_mode_close_item_material.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-hdpi-v17_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\drawable-ldrtl-hdpi-v17\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_icon.png.flat",
+        "source": "D:\\study\\new_vuforia\\INCCA-master\\app\\src\\main\\res\\drawable-xhdpi\\icon.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_bike_status_recognized.png.flat",
+        "source": "D:\\study\\new_vuforia\\INCCA-master\\app\\src\\main\\res\\drawable-xxhdpi\\bike_status_recognized.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\color-v23_abc_color_highlight_material.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\color-v23\\abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn_astro_selected.png.flat",
+        "source": "D:\\study\\new_vuforia\\INCCA-master\\app\\src\\main\\res\\drawable-hdpi\\btn_astro_selected.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_map_lib.png.flat",
+        "source": "D:\\study\\new_vuforia\\INCCA-master\\app\\src\\main\\res\\drawable-nodpi\\map_lib.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_map_icon.png.flat",
+        "source": "D:\\study\\new_vuforia\\INCCA-master\\app\\src\\main\\res\\drawable-nodpi\\map_icon.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_cab_background_top_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\drawable-xhdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_ic_star_black_16dp.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\drawable-xxhdpi-v4\\abc_ic_star_black_16dp.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "D:\\study\\new_vuforia\\INCCA-master\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_ic_star_half_black_36dp.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\drawable-hdpi-v4\\abc_ic_star_half_black_36dp.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_bike_status_snapped.png.flat",
+        "source": "D:\\study\\new_vuforia\\INCCA-master\\app\\src\\main\\res\\drawable-mdpi\\bike_status_snapped.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\drawable-xxhdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_text_select_handle_left_mtrl_dark.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\drawable-xxhdpi-v4\\abc_text_select_handle_left_mtrl_dark.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\layout-watch-v20_abc_alert_dialog_title_material.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\layout-watch-v20\\abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_map_guk.png.flat",
+        "source": "D:\\study\\new_vuforia\\INCCA-master\\app\\src\\main\\res\\drawable-nodpi\\map_guk.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_circle_button_2.xml.flat",
+        "source": "D:\\study\\new_vuforia\\INCCA-master\\app\\src\\main\\res\\drawable\\circle_button_2.xml"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_list_longpressed_holo.9.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\drawable-xxhdpi-v4\\abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_lander_reticle.png.flat",
+        "source": "D:\\study\\new_vuforia\\INCCA-master\\app\\src\\main\\res\\drawable-xhdpi\\lander_reticle.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_select_dialog_singlechoice_material.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_screen_simple_overlay_action_mode.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_searching_reticle.png.flat",
+        "source": "D:\\study\\new_vuforia\\INCCA-master\\app\\src\\main\\res\\drawable-hdpi\\searching_reticle.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_text_select_handle_left_mtrl_dark.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\drawable-xhdpi-v4\\abc_text_select_handle_left_mtrl_dark.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_bike_reticle.png.flat",
+        "source": "D:\\study\\new_vuforia\\INCCA-master\\app\\src\\main\\res\\drawable-xhdpi\\bike_reticle.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_photo10.jpg.flat",
+        "source": "D:\\study\\new_vuforia\\INCCA-master\\app\\src\\main\\res\\drawable-nodpi\\photo10.jpg"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\anim_abc_shrink_fade_out_from_bottom.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_ic_menu_paste_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\drawable-xxxhdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_popup_menu_item_layout.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_ic_star_black_48dp.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\drawable-hdpi-v4\\abc_ic_star_black_48dp.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_btn_switch_to_on_mtrl_00012.9.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\drawable-xxxhdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_searching_reticle.png.flat",
+        "source": "D:\\study\\new_vuforia\\INCCA-master\\app\\src\\main\\res\\drawable-mdpi\\searching_reticle.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_ic_star_black_48dp.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\drawable-xhdpi-v4\\abc_ic_star_black_48dp.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\color-v23_abc_tint_switch_track.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\color-v23\\abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_icon_ground_plane.png.flat",
+        "source": "D:\\study\\new_vuforia\\INCCA-master\\app\\src\\main\\res\\drawable-xhdpi\\icon_ground_plane.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_abc_btn_colored_material.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\drawable-v21\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_list_pressed_holo_light.9.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\drawable-mdpi-v4\\abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_bike_status_passive.png.flat",
+        "source": "D:\\study\\new_vuforia\\INCCA-master\\app\\src\\main\\res\\drawable-hdpi\\bike_status_passive.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_switch_track_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\drawable-hdpi-v4\\abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_btn_check_to_on_mtrl_000.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\drawable-xxhdpi-v4\\abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_btn_radio_to_on_mtrl_000.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\drawable-xxhdpi-v4\\abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\drawable-mdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn_astro.png.flat",
+        "source": "D:\\study\\new_vuforia\\INCCA-master\\app\\src\\main\\res\\drawable-hdpi\\btn_astro.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_text_select_handle_right_mtrl_dark.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\drawable-xxhdpi-v4\\abc_text_select_handle_right_mtrl_dark.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_btn_default_mtrl_shape.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_logo.png.flat",
+        "source": "D:\\study\\new_vuforia\\INCCA-master\\app\\src\\main\\res\\drawable-mdpi\\logo.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_scrubber_control_to_pressed_mtrl_000.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\drawable-xxhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_info.xml.flat",
+        "source": "D:\\study\\new_vuforia\\INCCA-master\\app\\src\\main\\res\\layout\\activity_info.xml"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_btn_chair.png.flat",
+        "source": "D:\\study\\new_vuforia\\INCCA-master\\app\\src\\main\\res\\drawable-xxhdpi\\btn_chair.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_btn_astro.png.flat",
+        "source": "D:\\study\\new_vuforia\\INCCA-master\\app\\src\\main\\res\\drawable-xxhdpi\\btn_astro.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_button_background.png.flat",
+        "source": "D:\\study\\new_vuforia\\INCCA-master\\app\\src\\main\\res\\drawable-mdpi\\button_background.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_switch_track_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\drawable-xxxhdpi-v4\\abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_list_pressed_holo_dark.9.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\drawable-xxhdpi-v4\\abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\drawable-xhdpi-v4\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\layout-v26_abc_screen_toolbar.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\layout-v26\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\5b245ce1f66b49d30401a704167d6788\\res\\drawable-hdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn_chair.png.flat",
+        "source": "D:\\study\\new_vuforia\\INCCA-master\\app\\src\\main\\res\\drawable-hdpi\\btn_chair.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_lander_status_snapped.png.flat",
+        "source": "D:\\study\\new_vuforia\\INCCA-master\\app\\src\\main\\res\\drawable-mdpi\\lander_status_snapped.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_ic_menu_selectall_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e321d626bc775c26c9ffc766f684a1d5\\res\\drawable-xxxhdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\study\\new_vuforia\\INCCA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\5b245ce1f66b49d30401a704167d6788\\res\\drawable-mdpi-v4\\notification_bg_low_normal.9.png"
+    }
+]
